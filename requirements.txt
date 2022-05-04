@@ -1,0 +1,7 @@
+tensorflow==2.5.0
+keras==2.2.4
+mtcnn
+opencv-python
+numpy
+scipy
+imutils
